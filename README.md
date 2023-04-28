@@ -45,4 +45,4 @@ Durante o curso, eu aprendi muitos conceitos e técnicas importantes para a cons
 
 ## 🎓 Conclusão
 
-O curso de React da Rocketseat Ignite foi uma ótima experiência de aprendizado para mim. Aprendi muitas coisas novas e pude consolidar conhecimentos já adquiridos anteriormente. Agora estou preparado para construir aplicações React do zero, usando as melhores práticas e as tecnologias mais recentes. Espero que este repositório seja útil para você também. Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo.
+O curso de React da Rocketseat Ignite foi uma ótima experiência de aprendizado para mim.  Estou Aprendendo muitas coisas novas e pude consolidar conhecimentos já adquiridos anteriormente. Agora estou me preparando cada vez mais para construir aplicações React do zero, usando as melhores práticas e as tecnologias mais recentes. Espero que este repositório seja útil para você também. Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo.
